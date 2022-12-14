@@ -1,0 +1,3 @@
+/Users/deemo/Desktop/workspace/picoWS/pico/4760/PicoBoi/build/pioasm/CMakeFiles/pioasm.dir
+/Users/deemo/Desktop/workspace/picoWS/pico/4760/PicoBoi/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/deemo/Desktop/workspace/picoWS/pico/4760/PicoBoi/build/pioasm/CMakeFiles/rebuild_cache.dir

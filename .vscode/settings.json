@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "menu.h": "c",
+        "pt_cornell_rp2040_v1.h": "c",
+        "cstdio": "c",
+        "cstdlib": "c",
+        "cmath": "c",
+        "*.tcc": "c"
+    }
+}
